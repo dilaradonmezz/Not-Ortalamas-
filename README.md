@@ -3,10 +3,13 @@
 
 
 import java.util.Scanner;
+
 public class Giriss {
+
     public static void main(String[] args){
+    
         Scanner input = new Scanner(System.in);
-         int a, c;
+        int a, c;
         double b;
         System.out.println("mat notunu gir: ");
         a=input.nextInt();
