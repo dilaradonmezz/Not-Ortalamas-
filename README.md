@@ -1,5 +1,5 @@
 # Not Ortalaması
-##Not Ortalaması Hesaplayan Program
+## Not Ortalaması Hesaplayan Program
 
 
 import java.util.Scanner;
